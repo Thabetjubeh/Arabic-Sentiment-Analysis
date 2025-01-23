@@ -15,3 +15,11 @@ A supervised learning project to classify Arabic text as positive, negative, or 
 
 ### Setup
 1. Clone the repository:
+
+### Usage
+- To preprocess data, use `src/preprocess.py`.
+- To train a model, run `src/train.py`.
+- To deploy an API, start `src/app.py` using Flask.
+
+### License
+This project is licensed under the MIT License.
